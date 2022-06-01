@@ -20,6 +20,6 @@ National Science Foundation (NSF) Projects
   * Award Number: [1948689](https://nsf.gov/awardsearch/showAward?AWD_ID=1948926)
   * PI/co-PI(s): Donald Charles
 
-Northeastern US Diatom Analysis using `neotoma2`
+Northeastern US Diatom Analysis using [`neotoma2`](https://github.com/NeotomaDB/neotoma2)
 ======
 WIP
