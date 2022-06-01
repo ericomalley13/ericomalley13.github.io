@@ -11,49 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biological Sciences, Minor in Bioinformatics, Drexel University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2019 - March 2021: Digitization Technician
+  * Academy of Natural Sciences at Drexel University
+  * Duties included: Herbarium label transcription, high definition lightbox photography, data entry
+  * Supervisor: Jordan Teisher, Ph.D.
+ 
+* Summer 2021: Field Botany Teaching Assistant
+  * Drexel University
+  * Duties included: Assisting students, preparation of materials, hosting lab sessions, grading
+  * Supervisor: Tatyana Livshultz, Ph.D.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021 - Present: Botany Research Assistant
+  * Academy of Natural Sciences at Drexel University
+  * Duties included: Gene analysis using high-performance computing, lab testing and upkeep
+  * Supervisor: Tatyana Livshultz, Ph.D.
+
+* March 2022 - Present: Paleoclimate Database Assistant
+  * Academy of Natural Sciences at Drexel University
+  * Duties included: Data entry for NEOTOMA database, data analysis using R
+  * Supervisor: Donald Charles, Ph.D.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+WIP
+
